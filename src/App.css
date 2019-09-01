@@ -31,3 +31,10 @@
     transform: rotate(360deg);
   }
 }
+.color-brand {
+  color: #eb0d8c;
+}
+video {
+  max-width: 500px;
+  max-height: 500px;
+}
